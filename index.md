@@ -1,7 +1,7 @@
 
 # Josue Alonso's Portfolio
 
-Hello, I am a computer science major at California State Fullerton and I plan on graduating in 2028.
+Hello, I am a Computer Science major at Cal State Fullerton and I plan on graduating in 2028.
 
 ## Favorite CPSC 120L labs
 
